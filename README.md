@@ -34,8 +34,3 @@ Employee Leave Management System is a web-based application that automates the l
 ## 🎯 Purpose
 The goal of this project is to simplify leave management, reduce paperwork, and improve transparency between employees and managers.
 
-## 📸 Screenshots
-(Add your project screenshots here)
-
-## 👩‍💻 Author
-Samikshya Das
